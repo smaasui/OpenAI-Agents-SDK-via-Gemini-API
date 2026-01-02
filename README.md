@@ -1,4 +1,4 @@
-# Gemini-Powered Homework Agent System
+# Gemini-Powered OpenAI Agents SDK
 
 This project demonstrates a multi-agent orchestration system using the `openai-agents` SDK. It features a Triage Agent that routes queries to specialized Math and History tutors, but only after passing through a custom Homework Guardrail.
 
